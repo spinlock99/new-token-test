@@ -26,7 +26,7 @@ module.exports = {
   plugins: [
     new webpack.DefinePlugin({
       "process.env": { NODE_ENV: JSON.stringify("production") },
-      BASENAME: JSON.stringify("/"),
+      BASEstuff: JSON.stringify("/"),
       FILESTACK_API_KEY: JSON.stringify(process.env.FILESTACK_API_KEY),
       SOCKET: JSON.stringify("https://www.largearcade.com")
     }),
