@@ -1,7 +1,7 @@
 {
   "license": "UNLICENSED",
   "private": true,
-  "version": "0.0.72",
+  "version": "0.0.73",
   "dependencies": {
     "autotrack": "^2.4.1",
     "axios": "^0.16.1",

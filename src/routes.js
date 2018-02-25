@@ -111,6 +111,7 @@ const LoginForm = reduxForm({ form: "login" })(props =>
       <li>Github</li>
       <li>upper right dropdown menu</li>
       <li>settings</li>
+      <li>Developer Settings</li>
       <li>Personal access tokens</li>
       <li>Generate new token</li>
       <li>Paste token above</li>
